@@ -1,0 +1,8 @@
+How many customers are we losing?
+How much revenue is being lost due to churn?
+Which contract type experiences the highest churn?
+Which customer tenure group is most likely to churn?
+Which internet service customers churn the most?
+Does having a partner influence churn?
+What is our current customer base size?
+What is the average monthly spending per customer?
